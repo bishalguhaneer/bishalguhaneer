@@ -20,7 +20,7 @@ My long-term direction is to gradually integrate advanced data analytics, spatia
 
 ---
 
-## Emerging Development Focus
+## Future Development Focus
 
 Over the next stage, I plan to expand from GIS and spatial analysis into:
 
@@ -92,7 +92,7 @@ QGIS, ArcGIS, Google Earth Engine, Landsat, spatial analysis, cartographic desig
 ### Data Management
 Excel, CSV cleaning, geocoding, metadata, spatial QA/QC, GeoPackage
 
-### Future Analytics Stack
+### Emerging Analytics Skills
 Python, Pandas, SQL, PostgreSQL/PostGIS, dashboards, data visualization
 
 ---
