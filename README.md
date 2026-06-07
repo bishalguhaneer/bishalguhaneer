@@ -1,6 +1,6 @@
 # Bishal Guha
 
-## GIS & Remote Sensing Analyst | Spatial Data Analyst | Environmental Researcher
+## GIS & Remote Sensing Analyst | Spatial Data Analyst | Environmental Systems Researcher
 
 I work at the intersection of environmental systems, GIS, remote sensing, spatial data management, and data-driven decision support. My current portfolio focuses on environmental GIS, urban change assessment, spatial data quality, flood and watershed analysis, and GIS-based analytics.
 
@@ -20,7 +20,7 @@ My long-term direction is to gradually integrate advanced data analytics, spatia
 
 ---
 
-## Future Development Focus
+## Emerging Development Focus
 
 Over the next stage, I plan to expand from GIS and spatial analysis into:
 
@@ -47,11 +47,12 @@ Over the next stage, I plan to expand from GIS and spatial analysis into:
 
 ### Phase 2: Data Analytics and Spatial Integration
 
-6. Advanced Data Analytics Portfolio  
-7. Spatial Data + SQL Analytics Portfolio  
-8. Python-based Environmental Data Analysis  
-9. Interactive GIS and Data Dashboard  
-10. Wastewater / Waste / Resource Recovery Data Projects  
+6. Advanced Data Analytics Portfolio
+7. SQL and Database Analytics Portfolio
+8. Python-Based Data Analysis Portfolio
+9. Spatial and Non-Spatial Data Integration Projects
+10. Interactive GIS and Data Dashboards
+11. Environmental Systems and Resource Recovery Analytics
 
 ---
 
