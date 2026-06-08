@@ -40,19 +40,20 @@ Over the next stage, I plan to expand from GIS and spatial analysis into:
 ### Phase 1: GIS, Remote Sensing, and Spatial Data
 
 1. Urban Environmental Change and Thermal Stress Mapping  
-2. GIS Data Cleaning, Geocoding, and Spatial Data Management  
-3. Flood and Watershed Spatial Analysis  
-4. Spatial Database and PostGIS Portfolio  
-5. Environmental Spatial Data Analytics Dashboard  
+2. GIS Data Cleaning, Geocoding, and Spatial Data Management
+3. Advanced Environmental Intelligence and Urban Transformation Assessment  
+4. Flood and Watershed Spatial Analysis  
+5. Spatial Database and PostGIS Portfolio  
+6. Environmental Spatial Data Analytics Dashboard  
 
 ### Phase 2: Data Analytics and Spatial Integration
 
-6. Advanced Data Analytics Portfolio
-7. SQL and Database Analytics Portfolio
-8. Python-Based Data Analysis Portfolio
-9. Spatial and Non-Spatial Data Integration Projects
-10. Interactive GIS and Data Dashboards
-11. Environmental Systems and Resource Recovery Analytics
+7. Advanced Data Analytics Portfolio
+8. SQL and Database Analytics Portfolio
+9. Python-Based Data Analysis Portfolio
+10. Spatial and Non-Spatial Data Integration Projects
+11. Interactive GIS and Data Dashboards
+12. Environmental Systems and Resource Recovery Analytics
 
 ---
 
@@ -67,7 +68,7 @@ GIS Data Cleaning, Geocoding, and Spatial Data Management
 Focus: attribute cleaning, coordinate correction, geocoding, QA/QC, metadata, update tracking.
 
 ### Upcoming
-Flood and watershed analysis, spatial database development, environmental spatial analytics, and advanced data analytics integration.
+Advanced environmental intelligence and urban transformation assessment, flood and watershed analysis, spatial database development, environmental spatial analytics, and advanced data analytics integration.
 
 ---
 
