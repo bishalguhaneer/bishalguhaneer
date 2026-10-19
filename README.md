@@ -1,103 +1,96 @@
 # Bishal Guha
 
-## GIS & Remote Sensing Analyst | Spatial Data Analyst | Environmental Systems Researcher
+### Environmental Research | GIS & Spatial Analytics | Data Analysis
 
-I work at the intersection of environmental systems, GIS, remote sensing, spatial data management, and data-driven decision support. My current portfolio focuses on environmental GIS, urban change assessment, spatial data quality, flood and watershed analysis, and GIS-based analytics.
+I work across environmental research, GIS, remote sensing, spatial data analysis, and quantitative methods, with a focus on investigating environmental systems and developing evidence for research and decision-making.
 
-My long-term direction is to gradually integrate advanced data analytics, spatial databases, environmental datasets, and waste/wastewater systems research.
+My work encompasses environmental monitoring, pollution and risk assessment, spatial and temporal analysis, urban and ecological systems, and quantitative investigation. I combine geospatial methods, statistical analysis, data quality assessment, and analytical approaches to examine environmental conditions, variability, relationships, and their implications.
 
----
-
-## Current Technical Focus
-
-- GIS and Spatial Analysis
-- Remote Sensing
-- Spatial Data Cleaning and QA/QC
-- Geocoding and Attribute Management
-- Flood and Watershed Analysis
-- Environmental Risk Mapping
-- GIS-based Dashboards
+Alongside my environmental and spatial research, I am expanding my capabilities in data analytics and computational methods. My developing research interests also extend to experimental environmental engineering, particularly wastewater treatment and resource recovery, with longer-term opportunities to integrate advanced statistical modeling and computational approaches.
 
 ---
 
-## Future Development Focus
+## Research & Analytical Focus
 
-Over the next stage, I plan to expand from GIS and spatial analysis into:
-
-- Data Analytics
-- Python for Data Analysis
-- SQL and Database Management
-- Spatial Database Systems
-- PostGIS
-- Dashboard Development
-- Environmental Data Analytics
-- Integration of spatial and non-spatial datasets
+- **Environmental Research & Assessment:** Environmental monitoring, pollution, environmental risk, vulnerability, and evidence-based investigation.
+- **GIS, Remote Sensing & Spatial Analytics:** Environmental mapping, spatial and temporal variability, environmental indicators, spatial relationships, and decision support.
+- **Environmental Statistics & Data Analysis:** Exploratory and inferential statistics, multivariate analysis, clustering, interpretation, and analytical validation.
+- **Spatial Data Management & QA/QC:** Georeferencing, attribute management, data preparation, quality assessment, and cartographic communication.
+- **Data Analytics:** Excel-based analysis, analytical reporting, data validation, and developing broader analytical workflows.
 
 ---
 
-## Portfolio Progression
+## Selected Projects & Portfolios
 
-### Phase 1: GIS, Remote Sensing, and Spatial Data
+### Environmental GIS & Spatial Research
 
-1. Urban Environmental Change and Thermal Stress Mapping  
-2. GIS Data Cleaning, Geocoding, and Spatial Data Management
-3. Advanced Environmental Intelligence and Urban Transformation Assessment  
-4. Flood and Watershed Spatial Analysis  
-5. Spatial Database and PostGIS Portfolio  
-6. Environmental Spatial Data Analytics Dashboard  
+**Urban Environmental Change & Thermal Assessment**  
+Spatial and temporal assessment using land surface temperature, vegetation, built-up, water, and bare-soil indicators, supported by environmental interpretation and cartographic outputs.
 
-### Phase 2: Data Analytics and Spatial Integration
+**GIS Data Structuring & Spatial Data Management**  
+Georeferencing, digitization, attribute organization, spatial data preparation, quality assessment, and map communication.
 
-7. Advanced Data Analytics Portfolio
-8. SQL and Database Analytics Portfolio
-9. Python-Based Data Analysis Portfolio
-10. Spatial and Non-Spatial Data Integration Projects
-11. Interactive GIS and Data Dashboards
-12. Environmental Systems and Resource Recovery Analytics
+### General Data Analytics
+
+**[Excel Data Analytics — Project Portfolio](https://github.com/bishalguhaneer/Excel-Data-Analytics)**  
+An expanding collection of Excel-based projects involving data preparation, QA/QC, formula-based analysis, validation, and analytical interpretation.
+
+**[Portfolio 01 — Restaurant Order Intelligence](https://github.com/bishalguhaneer/Excel-Data-Analytics/tree/main/Portfolio-01-Restaurant-Order-Intelligence)**  
+A completed foundational Excel 365 project examining demand, temporal ordering patterns, order-size composition, and menu context using validated transaction data.
+
+*Additional research and analytical projects will be documented as they are completed.*
 
 ---
 
-## Featured Projects
+## Technical Skills & Tools
 
-### Portfolio 1
-Urban Environmental Change and Thermal Stress Mapping  
-Focus: LST, NDVI, NDBI, MNDWI, BSI, thermal hotspots, environmental change.
-
-### Portfolio 2
-GIS Data Cleaning, Geocoding, and Spatial Data Management  
-Focus: attribute cleaning, coordinate correction, geocoding, QA/QC, metadata, update tracking.
-
-### Upcoming
-Advanced environmental intelligence and urban transformation assessment, flood and watershed analysis, spatial database development, environmental spatial analytics, and advanced data analytics integration.
+| Area | Tools and Methods |
+|---|---|
+| **GIS & Remote Sensing** | QGIS, spatial analysis, geospatial data management, remote sensing indices, cartography |
+| **Statistics & Research Analysis** | SPSS, descriptive and inferential statistics, multivariate analysis, clustering, analytical validation |
+| **Data Analytics** | Excel 365, data preparation, QA/QC, conditional aggregation, exploratory analysis |
+| **Developing Technical Skills** | Python, SQL, PostgreSQL/PostGIS, Google Earth Engine, computational analytics |
 
 ---
 
 ## Research Interests
 
-- Waste Management
-- Wastewater Treatment
-- Resource Recovery
-- Environmental Risk Assessment
-- Urban Environmental Systems
-- GIS for Environmental Monitoring
-- Spatial Data Analytics
-- Environmental Data Science
+- Environmental Monitoring, Assessment & Management
+- Environmental Pollution, Contamination & Risk
+- Waste Management & Environmental Sustainability
+- Wastewater Treatment & Resource Recovery
+- Water Resources & Environmental Systems
+- Environmental Change, Earth Observation & Spatial Analysis
+- Environmental Vulnerability, Exposure & Decision Support
+- Environmental Statistics, Modeling & Data Science
+
+My interests encompass both spatial-data-driven environmental investigation and the gradual development of experimental environmental engineering research.
 
 ---
 
-## Tools and Skills
+## Research & Technical Development
 
-### GIS and Remote Sensing
-QGIS, ArcGIS, Google Earth Engine, Landsat, spatial analysis, cartographic design
+My development follows several complementary directions:
 
-### Data Management
-Excel, CSV cleaning, geocoding, metadata, spatial QA/QC, GeoPackage
+**Environmental & Spatial Research**  
+Advancing research involving environmental monitoring, pollution, risk, spatial and temporal relationships, vulnerability, and decision support through geospatial and quantitative approaches.
 
-### Emerging Analytics Skills
-Python, Pandas, SQL, PostgreSQL/PostGIS, dashboards, data visualization
+**Data Analytics & Computational Foundations**  
+Strengthening analytical workflows and progressively developing Python, SQL, database management, statistical analysis, and reporting capabilities.
+
+**Spatial & Non-Spatial Data Integration**  
+Exploring integrated analysis of geospatial information, environmental monitoring records, and structured datasets.
+
+**Experimental Environmental Engineering**  
+Developing research foundations in wastewater treatment and resource recovery, with an emphasis on experimental investigation, process understanding, and appropriate statistical methods.
+
+**Advanced Environmental Analytics — Longer-Term Direction**  
+Exploring the future integration of experimental, monitoring, and spatial datasets through advanced statistical modeling, computational methods, and AI/ML applications in environmental systems.
 
 ---
 
 ## Long-Term Direction
 
-My long-term goal is to build expertise across environmental engineering, GIS, spatial analytics, data analytics, and waste/wastewater systems, with applications in research, decision support, and professional geospatial services.
+My goal is to develop an interdisciplinary research profile connecting environmental engineering, environmental science, spatial analysis, statistics, and computational methods.
+
+I aim to contribute to rigorous environmental research and evidence-based decision-making through reliable data, appropriate analytical approaches, and progressively stronger experimental and computational capabilities.
